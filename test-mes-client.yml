@@ -1,0 +1,17 @@
+applist:
+  - name: Worktime Calculator
+    color: #003546
+    icon: WORKPLACE
+    route: worktime_calculator
+  - name: OEE-Viewer
+    color: #4abfff
+    icon: DASHBOARD
+    route: oee_viewer
+  - name: Hex Converter
+    color: #ff0517
+    icon: CALC
+    route: hex_converter
+  - name: Utilization Analytics
+    color: #f7c820
+    icon: CHART
+    route: utilization_analytics
